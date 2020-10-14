@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Project_Automation_ITsutra_POM" />
         <module name="ITSutraAutomation" />
+        <module name="Project_Automation_ITsutra_POM" />
       </profile>
     </annotationProcessing>
   </component>
